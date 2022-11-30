@@ -14,20 +14,20 @@ El Prep Course, o curso preparatorio, es un curso que diseñamos desde Henry con
 
 #### ¿En qué consiste el Prep Course?
 
-El curso consiste en una serie de videos, material escrito y ejercicios para que puedas ir aprendiendo estos conceptos básicos de Javascript, HTML y CCS. Todo el material se encuentra aquí, en este repositorio (prep.soyhenry.com).
+El curso consiste en una serie de videos, material escrito y ejercicios para que puedas ir aprendiendo estos conceptos básicos de Javascript, HTML y CSS. Todo el material se encuentra **aquí en la parte superior de la página**, iniciando por la sección de **"Intro"** y finalizando en la sección del **"Challenge"**.
 
 Podrás ir avanzando con el contenido a tu ritmo y de manera asincrónica (es decir, en los horarios y tiempos que tu prefieras). Cuando hayas finalizado, podrás inscribirte para realizar el Henry Challenge.
 
 ## ¿Qué es el Henry Challenge?
 
 Es un examen donde evaluamos los conceptos que se aprenden en el Prep Course. El examen tiene la finalidad de asegurarnos que realmente se han aprendido estos conceptos, dado que tenerlos bien claros es la clave de éxito para que puedas avanzar bien dentro de la carrera.
-El examen se realiza los días sábados cada dos semanas, previa inscripción en el siguiente link. Podrás rendirlo todas las veces que quieras. Para más información, puedes ir a la sección del challenge de este repositorio (prep.soyhenry.com/challenge).
+El examen se realiza todos los sábados, previa inscripción en el siguiente [link](https://www.admissions.soyhenry.com/). Podrás rendirlo todas las veces que quieras. Para más información, puedes ir a la sección del challenge de este repositorio (prep.soyhenry.com/challenge).
 
 ## ¿Qué puedo hacer si tengo dudas?
 
 Contamos con dos herramientas de apoyo:
 
-**Slack:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/)  o desde los mails que recibiste al momento de aplicar.
+**Slack:** es una plataforma de comunicación, donde podrás ponerte en contacto con nuestra comunidad que siempre te ayudará a resolver todas tus dudas. Encontrarás acceso a Slack desde la [plataforma de admisión](https://www.admissions.soyhenry.com/) o desde los mails que recibiste al momento de aplicar.
 Más adelante te explicaremos cómo usar la herramienta.
 
 **Clases de apoyo en vivo:** de lunes a viernes hay un espacio en vivo via Zoom con estudiantes avanzados que se postulan para responder todas tus consultas.
@@ -45,11 +45,11 @@ Para poder acompañarte en esta etapa, ponemos a disposición las “Clases de a
 
 Las clases son de lunes a viernes, por la tarde. Cada día se establece una temática distinta a trabajar. Deberás llegar a la clase habiendo visto los videos sobre ese tema e intentado resolver los ejercicios, dado que en las clases no se explicará los temas desde cero sino que se resolverán dudas puntuales.
 
-Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encontrar el calendario con las clases, el link de acceso y el link de la grabación, aquí:  [calendario](https://challenge.prep.soyhenry.com/calendar)
+Si no puedes asistir al espacio en vivo, podrás ver la grabación. Puedes encontrar el calendario con las clases, el link de acceso y el link de la grabación, aquí: [calendario](/Calendario)
 
 ## Open House
 
-Te compartimos esta grabación del último Open House que hicimos en nuestro canal de Youtube. En este video podrás concoer más sobre Henry, la carrera y el proceso de admisión:
+Te compartimos esta grabación del último Open House que hicimos en nuestro canal de Youtube. En este video podrás conocer más sobre Henry, la carrera y el proceso de admisión:
 
 <div class="iframeContainer">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_Hb0_v8SAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,3 +62,5 @@ En este video te explicamos todo lo que debes conocer:
 <div class="iframeContainer">
 <iframe src="https://player.vimeo.com/video/426051769" allow="autoplay; fullscreen"></iframe>
 </div>
+
+Aclaración: a partir de noviembre del 2022, el Henry Challenge se realiza todos los sábados.
